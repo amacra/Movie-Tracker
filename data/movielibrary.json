@@ -1,0 +1,37 @@
+{
+    "movies": [
+        {
+            "duration": 54,
+            "watches": 1,
+            "reviews": [],
+            "rating": 5,
+            "title": "MOVIE1",
+            "category": "cat1"
+        },
+        {
+            "duration": 76.8,
+            "watches": 2,
+            "reviews": [],
+            "rating": 6.7,
+            "title": "MOVIE 11",
+            "category": "category 5"
+        },
+        {
+            "duration": 89,
+            "watches": 1,
+            "reviews": [],
+            "rating": 5.4,
+            "title": "MOVIE 3",
+            "category": "category 6"
+        },
+        {
+            "duration": 123,
+            "watches": 2,
+            "reviews": [],
+            "rating": 5.6,
+            "title": "MOVIE 9",
+            "category": "cat4"
+        }
+    ],
+    "name": "My Movie Library"
+}

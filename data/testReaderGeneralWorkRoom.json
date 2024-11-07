@@ -1,0 +1,21 @@
+{
+  "movies": [
+    {
+      "title": "MOVIE1",
+      "duration": 98.0,
+      "category": "category1",
+      "rating": 7.2,
+      "watches": 1,
+      "reviews": []
+    },
+    {
+      "title": "MOVIE2",
+      "duration": 120.6,
+      "category": "category2",
+      "rating": 8.3,
+      "watches": 2,
+      "reviews": ["review1", "review2"]
+    }
+  ],
+  "name": "My Movie Library"
+}
